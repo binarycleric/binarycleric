@@ -2,7 +2,7 @@
 
 I'm looking for a new gig. Let me know if you are hiring! :star:
 
-Reach out to me at me[at]jondaniel[dot]email.
+Reach out to me at me[at]jondaniel[dot]email or check out my [blog](https://chronicbuildfailure.co/).
 
 #### Talks
  * [Cloud Database Workloads with Jon Daniel](https://softwareengineeringdaily.com/2019/05/06/cloud-database-workloads-with-jon-daniel)
