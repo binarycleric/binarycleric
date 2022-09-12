@@ -2,7 +2,7 @@
 
 I'm looking for a new gig. Let me know if you are hiring! :star:
 
-Reach out to me at me[at]jondaniel[dot]email or check out my [blog](https://chronicbuildfailure.co/).
+Reach out to me at me[at]jondaniel[dot]email.
 
 #### Talks
  * [Cloud Database Workloads with Jon Daniel](https://softwareengineeringdaily.com/2019/05/06/cloud-database-workloads-with-jon-daniel)
@@ -18,6 +18,7 @@ Reach out to me at me[at]jondaniel[dot]email or check out my [blog](https://chro
 
 #### Links
 
+* [Blog](https://chronicbuildfailure.co/)
 * [LeetCode](https://leetcode.com/binarycleric/)
 * [LinkedIn](https://www.linkedin.com/in/jonathandaniel/)
 * [Trailhead](https://trailblazer.me/id/jondaniel)
