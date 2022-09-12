@@ -16,6 +16,12 @@ Reach out to me at me[at]jondaniel[dot]email or check out my [blog](https://chro
  * [Intro to DevOps for the Uninitiated](https://medium.com/chronic-build-failure/intro-to-devops-for-the-uninitiated-2ec551b72baa)
  * [Maintenance, Operational Concerns, and Cost](https://medium.com/chronic-build-failure/maintenance-operational-concerns-and-cost-28e7f0e69db7)
 
+#### Links
+
+* [LeetCode](https://leetcode.com/binarycleric/)
+* [LinkedIn](https://www.linkedin.com/in/jonathandaniel/)
+* [Trailhead](https://trailblazer.me/id/jondaniel)
+
 <!--
 **binarycleric/binarycleric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
