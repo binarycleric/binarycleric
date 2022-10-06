@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jon and I'm a Software Engineer.
+My name is Jon and I'm a Software Engineer in the Bay Area. Take a look at some of the work I've done over the years.
 
 #### Talks
  * [Cloud Database Workloads with Jon Daniel](https://softwareengineeringdaily.com/2019/05/06/cloud-database-workloads-with-jon-daniel)
@@ -13,6 +13,11 @@ My name is Jon and I'm a Software Engineer.
  * [Embrace Chaos. Day 1 in Unfamiliar Code.](https://medium.com/chronic-build-failure/embrace-chaos-day-1-in-unfamiliar-code-4c7458f4f152)
  * [Intro to DevOps for the Uninitiated](https://medium.com/chronic-build-failure/intro-to-devops-for-the-uninitiated-2ec551b72baa)
  * [Maintenance, Operational Concerns, and Cost](https://medium.com/chronic-build-failure/maintenance-operational-concerns-and-cost-28e7f0e69db7)
+
+#### Open Source Projects
+
+ * [benchmark_requires](https://github.com/binarycleric/benchmark_requires) - Find slow loading libraries in your Rails apps.
+ * [bettis](https://github.com/binarycleric/bettis) - A toy databases that mimics redis.
 
 #### Links
 
