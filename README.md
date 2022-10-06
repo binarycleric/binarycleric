@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm looking for a new gig. Let me know if you are hiring! :star:
-
-Reach out to me at me[at]jondaniel[dot]email.
+My name is Jon and I'm a Software Engineer.
 
 #### Talks
  * [Cloud Database Workloads with Jon Daniel](https://softwareengineeringdaily.com/2019/05/06/cloud-database-workloads-with-jon-daniel)
