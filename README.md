@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jon and I'm a Software Engineer. Take a look at some of the work I've done over the years.
+My name is Jon and I'm a Software Engineer at Heroku (part of Salesforce). Take a look at some of the work I've done over the years.
 
 #### Talks
  * [Cloud Database Workloads with Jon Daniel](https://softwareengineeringdaily.com/2019/05/06/cloud-database-workloads-with-jon-daniel)
