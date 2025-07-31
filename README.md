@@ -19,6 +19,7 @@ My name is Jon and I'm a Software Engineer at Heroku (part of Salesforce). Take 
 
  * [benchmark_requires](https://github.com/binarycleric/benchmark_requires) - Find slow loading libraries in your Rails apps.
  * [bettis](https://github.com/binarycleric/bettis) - A toy databases that mimics redis.
+ * [enumerable-stats](https://github.com/binarycleric/enumerable-stats) - Statistical Methods for Enumerable Collections
 
 ## Links
 
