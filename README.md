@@ -8,7 +8,7 @@ My name is Jon and I'm a Software Engineer at Heroku (part of Salesforce). Take 
 
 ## Selected Blog Posts
 
- * [Improving the Heroku Postgres Extension Experience](https://www.heroku.com/blog/improving-the-heroku-postgres-extension-experience/)
+ * [Improving the Heroku Postgres Extension Experience](https://www.heroku.com/blog/improving-the-heroku-postgres-extension-experience/) (Heroku Blog)
  * [I knew when I met you that an adventure was going to happen.](https://medium.com/chronic-build-failure/i-knew-when-i-met-you-that-an-adventure-was-going-to-happen-8cc10edb9a21)
  * [Fix Hiring and Train a New Generation](https://medium.com/chronic-build-failure/fix-hiring-and-train-a-new-generation-2da7ac95bdd5)
  * [Embrace Chaos. Day 1 in Unfamiliar Code.](https://medium.com/chronic-build-failure/embrace-chaos-day-1-in-unfamiliar-code-4c7458f4f152)
