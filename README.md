@@ -10,6 +10,7 @@ Take a look at some of the work I've done over the years.
 
 ## Selected Blog Posts
 
+ * [Ruby Deserves Better Math So I Build enumerable-stats](https://chronicbuildfailure.co/ruby-deserves-better-math-so-i-build-enumerable-stats-9b96e2ffb590)
  * [Improving the Heroku Postgres Extension Experience](https://www.heroku.com/blog/improving-the-heroku-postgres-extension-experience/) (Heroku Blog)
  * [I knew when I met you that an adventure was going to happen.](https://medium.com/chronic-build-failure/i-knew-when-i-met-you-that-an-adventure-was-going-to-happen-8cc10edb9a21)
  * [Fix Hiring and Train a New Generation](https://medium.com/chronic-build-failure/fix-hiring-and-train-a-new-generation-2da7ac95bdd5)
