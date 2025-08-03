@@ -23,7 +23,7 @@ Take a look at some of the work I've done over the years.
  * [benchmark_requires](https://github.com/binarycleric/benchmark_requires) - Find slow loading libraries in your Rails apps.
  * [bettis](https://github.com/binarycleric/bettis) - A toy databases that mimics redis.
  * [enumerable-stats](https://github.com/binarycleric/enumerable-stats) - Statistical Methods for Enumerable Collections
- * [tobias](https://github.com/binarycleric/tobias) - Recommend memory settings for your Postgres database
+ * [tobias](https://github.com/binarycleric/tobias) - Recomends memory settings for your Postgres database
 
 ## Links
 
