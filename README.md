@@ -24,7 +24,7 @@ Take a look at some of the work I've done over the years.
  * [bettis](https://github.com/binarycleric/bettis) - A toy databases that mimics redis.
  * [enumerable-stats](https://github.com/binarycleric/enumerable-stats) - Statistical Methods for Enumerable Collections
  * [tobias](https://github.com/binarycleric/tobias) - Recomends memory settings for your Postgres database
- * [gladys](https://github.com/heroku/gladys) - Benchmarks Postgres databases, for science!
+ * [gladys](https://github.com/binarycleric/gladys) - Benchmarks Postgres databases, for science!
 
 ## Links
 
