@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jon and I'm a Software Engineer at Heroku (part of Salesforce). I work pretty heavily in Ruby, SQL, and AWS but I can make just about any programming language do whatever silly task is asked of me.
+My name is Jon and I'm a Software Engineer at Heroku (part of Salesforce). I work pretty heavily in Ruby, SQL, and AWS but I can make just about any programming language do whatever task is asked of me.
 
 Take a look at some of the work I've done over the years.
 
